@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="400" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Nitin_Kumar and I'm a Data_Analyst from Himachal_Pradesh</h2>
 
 ###
@@ -38,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="249" src="https://lp-cms-production.imgix.net/2019-06/GettyImages-149353949_high.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75"  />
+  <img height="400" src="https://emeritus.org/wp-content/uploads/2022/09/Leverage-data-1.jpg.optimal.jpg"  />
 </div>
 
 ###
